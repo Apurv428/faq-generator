@@ -2,10 +2,10 @@
 - [Table of Contents](#table-of-contents)
 - [FAQ Generator](#faq-generator)
   - [Features](#features)
+  - [Demo](#demo)
   - [Installation](#installation)
   - [How to use the FAQ Generator?](#how-to-use-the-faq-generator)
   - [Conclusion](#conclusion)
-
 
 # FAQ Generator
 
@@ -16,6 +16,10 @@ The FAQ Generator is a tool designed to generate frequently asked questions (FAQ
 - Automatically generates FAQs from text.
 - Provides a user-friendly web interface for input and output.
 - Option to copy the faqs on clipboard
+
+## Demo
+
+https://github.com/Apurv428/faq-generator/assets/84929607/f6ce223c-b84a-4579-9ab9-e4b115b30b09
 
 ## Installation
 
